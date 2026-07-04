@@ -28,12 +28,12 @@
 
 ## Project Vision
 
-soul2win Website
+### soul2win Website
 
-├── WordPress Website
-├── Blog
-├── soul2win Quiz Engine
-├── AskEd AI
-├── Bible Resources
-├── Student Dashboard
-└── Future Learning Tools
+- WordPress Website
+- Blog
+- soul2win Quiz Engine
+- AskEd AI
+- Bible Resources
+- Student Dashboard
+- Future Learning Tools
